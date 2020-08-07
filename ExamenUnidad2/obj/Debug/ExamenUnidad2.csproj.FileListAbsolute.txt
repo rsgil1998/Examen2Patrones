@@ -1,0 +1,10 @@
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\bin\Debug\ExamenUnidad2.exe.config
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\bin\Debug\ExamenUnidad2.exe
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\bin\Debug\ExamenUnidad2.pdb
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.Home.resources
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.Properties.Resources.resources
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.csproj.GenerateResource.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.csproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.exe
+C:\Users\santi\Desktop\Universidad\Sexto nivel\PATRONES DE DISENO - 7603\unidad 2\Examen\ExamenUnidad2\obj\Debug\ExamenUnidad2.pdb
